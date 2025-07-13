@@ -1,2 +1,20 @@
-# Weather-App
-The Weather App is a sleek and responsive web application that allows users to check the current weather conditions of any city across the world. Built using HTML, CSS, and JavaScript. It integrates with the OpenWeatherMap API to deliver real-time weather data, including temperature, humidity, weather conditions, and more.
+# 🌦️ Weather Forecast Web App
+
+This is a simple, modern weather forecast app built with **HTML**, **CSS**, and **JavaScript** using the **OpenWeatherMap API**.
+
+## 🔍 Features
+
+- Search for any city to get real-time weather data.
+- Displays:
+  - Current temperature, humidity, and weather condition
+  - 4-day forecast
+  - Dynamic weather emojis
+  - Responsive background based on weather
+- Smooth UI and error handling.
+
+## 📦 Tech Stack
+
+- HTML5, CSS3
+- Vanilla JavaScript
+- [OpenWeatherMap API](https://openweathermap.org/api)
+
